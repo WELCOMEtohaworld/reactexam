@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/reactexam/static/css/main.32e61399.css",
+    "main.js": "/reactexam/static/js/main.477f53ec.js",
+    "index.html": "/reactexam/index.html",
+    "main.32e61399.css.map": "/reactexam/static/css/main.32e61399.css.map",
+    "main.477f53ec.js.map": "/reactexam/static/js/main.477f53ec.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.32e61399.css",
+    "static/js/main.477f53ec.js"
+  ]
+}
